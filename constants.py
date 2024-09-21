@@ -1,1 +1,1 @@
-ENDPOINT = 'http://0.0.0.0:8000'
+ENDPOINT = 'https://backend-els-720685387106.us-central1.run.app'
